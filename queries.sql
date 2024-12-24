@@ -1,3 +1,5 @@
+USE [Cursos]
+
 SELECT TOP 100
     [Id], [Nome], [CategoriaId]
 FROM
