@@ -53,6 +53,5 @@ Este curso é uma introdução ao SQL Server, cobrindo os fundamentos necessári
 - Entender como otimizar consultas com índices e chaves.
 
 ## Certificado
-Caso tenha concluído o curso, insira aqui o seu certificado de conclusão! Você pode adicionar a imagem do certificado utilizando o seguinte código:
 
 ![Certificado de Conclusão](./fundamentos-sql-server.png)
